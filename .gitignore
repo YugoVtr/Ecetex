@@ -1,7 +1,8 @@
+.vscode
+examples
 *.code-workspace
 *.aux
 *.fdb_latexmk
 *.fls
 *.log
 *.gz
-examples
