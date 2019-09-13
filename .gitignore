@@ -15,3 +15,5 @@ examples
 **/*.lot
 **/*.synctex.gz
 **/*.toc
+**/*.bbl
+**/*.pdf

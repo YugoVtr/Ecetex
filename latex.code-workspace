@@ -20,7 +20,8 @@
 			"**/*.loq": true,
 			"**/*.lot": true,
 			"**/*.synctex.gz": true,
-			"**/*.toc": true
+			"**/*.toc": true,
+			"**/*.bbl": true
 		}
 	}
 }
