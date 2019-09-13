@@ -1,0 +1,26 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.exclude" : {
+			".vscode/": true,
+			"**/*.aux": true,
+			"**/*.blg": true,
+			"**/*.brf": true,
+			"**/*.fdb_latexmk": true,
+			"**/*.fls": true,
+			"**/*.idx": true,
+			"**/*.ilg": true,
+			"**/*.ind": true,
+			"**/*.lof": true,
+			"**/*.log": true,
+			"**/*.loq": true,
+			"**/*.lot": true,
+			"**/*.synctex.gz": true,
+			"**/*.toc": true
+		}
+	}
+}
