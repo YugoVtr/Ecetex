@@ -6,3 +6,10 @@ examples
 *.fls
 *.log
 *.gz
+*.idx
+*.ilg
+*.ind
+*.lof
+*.loq
+*.lot
+*.toc
