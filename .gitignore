@@ -1,6 +1,6 @@
 .vscode
 examples
-.vscode/
+tcc
 **/*.aux
 **/*.blg
 **/*.brf
@@ -15,4 +15,5 @@ examples
 **/*.lot
 **/*.synctex.gz
 **/*.toc
-**/*.bbl
+**/*.bbltcc/
+
